@@ -1,0 +1,5 @@
+tuple=(1,3,4,"xyz")
+print(tuple)
+print(type(tuple))
+print(tuple*3)
+print(tuple.index("xyz"))

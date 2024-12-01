@@ -1,0 +1,10 @@
+a=12
+b=15
+c=88
+print(type(a))
+print(a,b,c)
+x=20.66
+y=9.98
+z=97.67
+print(type(x))
+print(x,y,z)

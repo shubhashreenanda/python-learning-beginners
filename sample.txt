@@ -1,0 +1,6 @@
+python is awesome
+python
+django
+drf
+django is for web development
+django is for web development
